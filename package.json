@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "http-serve": "^1.0.1",
+    "http-server": "^14.1.1",
+    "normalize.css": "^8.0.1",
+    "python": "^0.0.4"
+  }
+}

@@ -1,0 +1,13 @@
+.icon-top{
+    position: absolute;
+    top: 10px;
+    right: 10px;  
+}
+
+@media screen and (min-width: 800px) {
+    .icon-top{
+        max-width: 800px;
+        margin: 1rem auto;
+        left: +1120px;
+    }
+}
